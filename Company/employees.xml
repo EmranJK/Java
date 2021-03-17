@@ -1,0 +1,24 @@
+<object-stream>
+  <list>
+    <AdminWorker>
+      <firstName>Jack</firstName>
+      <lastName>Collins</lastName>
+      <email>Jack@gmail.com</email>
+      <phoneNum>0726752377</phoneNum>
+      <ppsNum>6187861a</ppsNum>
+      <hoursWorked>20.0</hoursWorked>
+      <hourRate>10.0</hourRate>
+      <bonus>5.0</bonus>
+    </AdminWorker>
+    <Manager>
+      <firstName>Jack</firstName>
+      <lastName>notCollin</lastName>
+      <email>Jack@gmail.com</email>
+      <phoneNum>0726752377</phoneNum>
+      <ppsNum>6187861a</ppsNum>
+      <hoursWorked>20.0</hoursWorked>
+      <hourRate>10.0</hourRate>
+      <employeeArrayList/>
+    </Manager>
+  </list>
+</object-stream>
