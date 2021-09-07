@@ -1,0 +1,26 @@
+<object-stream>
+  <list>
+    <Country>
+      <name>t</name>
+      <meps>
+        <Mep>
+          <MEPName>ytr</MEPName>
+          <MEPEmail>asd@gmail.com</MEPEmail>
+          <MEPPhone>875</MEPPhone>
+          <MEPParty>
+            <PartyName>r</PartyName>
+            <PartyLeader>u</PartyLeader>
+            <PartyGenre>RIGHT</PartyGenre>
+            <numLocalReps>75</numLocalReps>
+          </MEPParty>
+        </Mep>
+      </meps>
+      <noMEPs>2</noMEPs>
+    </Country>
+    <Country>
+      <name>w</name>
+      <meps/>
+      <noMEPs>3</noMEPs>
+    </Country>
+  </list>
+</object-stream>

@@ -1,0 +1,16 @@
+<object-stream>
+  <list>
+    <Party>
+      <PartyName>r</PartyName>
+      <PartyLeader>u</PartyLeader>
+      <PartyGenre>RIGHT</PartyGenre>
+      <numLocalReps>75</numLocalReps>
+    </Party>
+    <Party>
+      <PartyName>kk</PartyName>
+      <PartyLeader>ty</PartyLeader>
+      <PartyGenre>RIGHT</PartyGenre>
+      <numLocalReps>231</numLocalReps>
+    </Party>
+  </list>
+</object-stream>
